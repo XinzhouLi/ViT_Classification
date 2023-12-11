@@ -1,3 +1,4 @@
 .vscode
 *.npy
+*nii.gz
 # /data/input_data/SPMS_RRMS_CONTROL
